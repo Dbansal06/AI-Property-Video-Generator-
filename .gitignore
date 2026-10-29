@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+
+# Project Temp & Output
+temp/
+output/
+*.mp3
+*.wav
+*.mp4
+.DS_Store

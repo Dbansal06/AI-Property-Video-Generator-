@@ -1,0 +1,19 @@
+{
+    "property_name": "The Grand Horizon Luxury Residence",
+    "location": "Bandra West, Mumbai",
+    "price": "\u20b94.5 Cr",
+    "property_type": "3 BHK Premium Apartment",
+    "key_features": [
+        "Sea-facing balcony",
+        "Fully automated smart home system",
+        "Italian marble flooring",
+        "2 Dedicated covered parking spaces"
+    ],
+    "contact_cta": "Call Realty Assistant at +91-9876543210 or visit www.realtyassistant.in",
+    "images": [
+        "sample_data/img1.jpg",
+        "sample_data/img2.jpg",
+        "sample_data/img3.jpg",
+        "sample_data/img4.jpg"
+    ]
+}
